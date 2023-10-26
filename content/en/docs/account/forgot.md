@@ -9,6 +9,6 @@ description: 'Trang Quên mật khẩu là nơi bạn có thể đặt lại m�
 
 Nếu bạn Quên mật khẩu, ở giao diện Đăng nhập hãy click vào Quên mật khẩu. Bạn hãy điền các thông tin Email và Tên người dùng để xác nhận lấy lại mật khẩu. Sau khi điền đủ các thông tin, hệ thống sẽ đưa bạn quay về giao diện ở giao diện Đặt lại mật khẩu ở trên để tạo lại mật khẩu mới . Vui lòng nhập lại các thông tin để hoàn tất việc tạo lại mật khẩu.
 
-![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/588119ef-c29c-42db-b8ce-846864f39504)
+![](/img/account_1.png)
 
 Nếu bạn muốn trở về giao diện Đăng nhập, click vào Đăng nhập ngay, hoặc click vào dòng chữ Login here and Experience US ở form bên trái màn hình ở mỗi giao diện.

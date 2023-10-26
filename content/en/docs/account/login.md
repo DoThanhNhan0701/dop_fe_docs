@@ -10,6 +10,6 @@ description: 'Trang Đăng nhập tài khoản là nơi bạn có thể truy c�
 
 Nếu bạn đã có tài khoản, vui lòng nhập Username và password, click vào nút Đăng nhập để đăng nhập vào website.
 
-![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/f72829d7-d6b1-488c-8026-d874db0b9859)
+![](/img/account_1.png)
 
 

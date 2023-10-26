@@ -22,13 +22,13 @@ Basic information and sections needed for a quick start.
 
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-question" title="[FAQ](/docs/faq/)" %}}
+{{% blocks/feature icon="fa-question" title="[FAQ](https://crowd.rainscales.com/support/faq)" %}}
 
 Answers to frequently asked questions.
 
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-github" title="[GitHub Repository](https://github.com/cvat-ai/cvat)" %}}
+{{% blocks/feature icon="fab fa-github" title="[GitHub Repository](https://github.com/crowdsourcing2/dop_fe)" %}}
 
 Computer Vision Annotation Tool GitHub repository.
 
@@ -42,21 +42,21 @@ This section contains documents for CVAT simple and advanced users.
 
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-server" title="[Administration](/docs/administration/)" %}}
+{{% blocks/feature icon="fa-server" title="[Administration](/docs/manual/administration/)" %}}
 
 This section contains documents for system administrators.
 
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-terminal" title="[Manager](/docs/contributing/)" %}}
+{{% blocks/feature icon="fa-terminal" title="[Manager](/docs/manual/manager/)" %}}
 
 This section contains documents for developers.
 
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-terminal" title="[Worker](/docs/contributing/)" %}}
+{{% blocks/feature icon="fa-terminal" title="[Worker](/docs/manual/worker/)" %}}
 
-This section contains documents for developers1234567890.
+This section contains documents for developers.
 
 {{% /blocks/feature %}}
 

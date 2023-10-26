@@ -8,6 +8,4 @@ Trang Getting started là điểm khởi đầu hoàn hảo cho những người
 
 ## Installation
 
-First step is to install CVAT on your system:
-
 - [Cách đăng ký tài khoản](/docs/account/)

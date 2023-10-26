@@ -30,6 +30,7 @@ Sau khi tải dữ liệu thành công, hệ thống sẽ chuyển sang tab ch�
 Tiếp theo, người dùng ấn chọn dữ liệu phù hợp và ấn nút kế tiếp để tiếp tục quá trình tạo Jobs
 
 **Bước 3:** Cấu hình dự án
+
 **+ OCR ENTRY**
 ![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/f66624d2-1c1b-4c6c-8ace-471b08bd5159)
 **+ DOUBLE ENTRY**

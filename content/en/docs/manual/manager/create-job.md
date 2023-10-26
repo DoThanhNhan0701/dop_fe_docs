@@ -37,6 +37,7 @@ Khi nối các vai trò (roles) với nhau, bạn kéo từ vị trí có chấm
 
 Hiện tại hệ thống được xử lý theo 2 cấu hình sau:
 **1: OCR ENTRY**
+
 **2: DOUBLE ENTRY**
 
 Sau khi hoàn tất cấu hình dự án, nhấn kế tiếp để hoàn tất quá trình tạo công việc

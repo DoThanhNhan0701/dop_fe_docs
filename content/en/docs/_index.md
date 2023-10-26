@@ -1,20 +1,16 @@
 ---
 title: "Documentation"
 linkTitle: "Documentation"
-description: "Welcome to the documentation of Crowd."
+description: "Chào mừng đến với tài liệu của OpenCrowd."
 no_list: true
 menu:
   main:
     weight: 20
 ---
 
-Crowd is a free, online, interactive video and image annotation tool for computer vision.
-It is being developed and used by Intel to annotate millions of objects with different properties.
-Many UI and UX decisions are based on feedbacks from professional data annotation team.
-Try it online [app.cvat.ai](https://app.cvat.ai).
+Tại đây, bạn có thể truy cập tài liệu dành cho ứng dụng OpenCrowd thông qua liên kết Documentation. Dưới đây, chúng tôi sẽ mô tả chi tiết về nội dung của tài liệu này.
 
-Our documentation provides information for AI researchers, system administrators, developers, simple and advanced users.
-The documentation is divided into three sections, and each section is divided into subsections `basic` and `advanced`.
+Tài liệu này là nguồn tài liệu chính dành cho ứng dụng OpenCrowd. Nó chứa các hướng dẫn và thông tin quan trọng để giúp bạn làm việc với ứng dụng một cách hiệu quả. Dưới đây, chúng tôi sẽ đi sâu vào từng phần của tài liệu để cung cấp thông tin chi tiết.
 
 <section id="docs">
 

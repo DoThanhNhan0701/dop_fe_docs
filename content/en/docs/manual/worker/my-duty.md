@@ -8,7 +8,7 @@ description: 'Phần Nhiệm vụ của tôi cho phép người dùng theo dõi 
 
 Bên thanh công cụ, hãy click vào **Công việc**,  **Nhiệm vụ của tôi**. Tại đây sẽ hiển thị các nhiệm vụ mà bạn đã nhận. Bạn có thế click vào nhiệm vụ đó và tiến hành làm việc.
 
-![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/b460dae5-1307-41f9-a0e4-387667b82889)
+![](/img/worker_8.png)
 
 - Bạn có thể click vào các nút bấm để thực hiện chức năng lọc và sắp xếp các nhiệm vụ.
 

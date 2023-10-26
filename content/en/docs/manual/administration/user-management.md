@@ -5,46 +5,27 @@ weight: 12
 description: "Chào mừng bạn đến phần Quản lý người dùng của tài liệu của chúng tôi. Phần này chứa các hướng dẫn và tài liệu cho cả người dùng mới và người dùng nâng cao của OpenCrowd. Dù bạn mới bắt đầu hay muốn khám phá các tính năng quản lý người dùng nâng cao, bạn sẽ tìm thấy thông tin cần thiết ở đây để quản lý tài khoản người dùng và kiểm soát quyền truy cập trong hệ thống của bạn một cách hiệu quả."
 ---
 
-Trang Tạo dự án trong tài liệu giới thiệu quá trình tạo và quản lý dự án. Dưới đây, chúng tôi sẽ mô tả chi tiết nội dung của trang này.
-![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/cda6f2b5-5f76-489a-9b12-a8bcbce1c956)
+## Giới thiệu và Tổng quan
 
-## Các bước thực hiện
+**Mục tiêu:** Chức năng quản lý người dùng nhằm đảm bảo rằng quản trị viên hoặc người có thẩm quyền có khả năng quản lý và kiểm soát tài khoản và quyền truy cập của người dùng trong hệ thống hoặc ứng dụng. Mục tiêu của chức năng này bao gồm:
++ Tạo tài khoản người dùng.
++ Cập nhật thông tin cá nhân của người dùng.
++ Xóa tài khoản người dùng.
++ Quản lý quyền truy cập và phân quyền cho người dùng.
++ Theo dõi hoạt động của người dùng.
++ Bảo vệ thông tin cá nhân của người dùng.
+**Tạo tài khoản người dùng:**
 
-**Bước 1:** Nhấn nút Create Job trên thanh công cụ
-![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/70ae8d86-4dcb-4d20-8a07-631cdb8b2f61)
+Chức năng này cho phép quản trị viên hoặc người có thẩm quyền tạo tài khoản cho người dùng mới. Thông tin cơ bản như tên, địa chỉ email, mật khẩu và thông tin liên hệ thường được yêu cầu.
+**Cập nhật thông tin cá nhân:**
 
-**Bước 2:** Nhấn nút kế tiếp
-![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/a7255895-4916-46a4-93e0-270a5d5c6b55)
+Người quản trị có khả năng cập nhật thông tin cá nhân của người dùng, bao gồm việc thay đổi thông tin liên hệ, thay đổi mật khẩu và cập nhật hồ sơ người dùng.
+**Xóa tài khoản người dùng:**
 
-Tùy theo cấu hình của Project mà manager update data phù hợp với template của Project
+Chức năng này cho phép người quản trị xóa tài khoản người dùng khi cần thiết, ví dụ như khi người dùng không còn làm việc trong tổ chức hoặc không còn cần tài khoản nữa.
+**Quản lý quyền truy cập và phân quyền:**
 
-- Loại dự án **Simple batch** thì upload **FILE ẢNH**
-- Loại dự án **Multiple batch** thì upload **FILE ZIP**
+Chức năng này cho phép quản trị viên quản lý quyền truy cập của người dùng vào các phần của hệ thống hoặc ứng dụng. Điều này đảm bảo rằng người dùng chỉ có quyền truy cập và thực hiện các thao tác phù hợp với vai trò của họ.
+**Theo dõi hoạt động của người dùng:**
 
-Sau khi tải dữ liệu thành công, hệ thống sẽ chuyển sang tab chọn dữ liệu
-
-![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/c2532589-12e6-4d72-8013-01f6a8b1ab13)
-Ở tab này thể hiện tất cả các dữ liệu mà ta đã tải lên hệ thống trước đó
-Tiếp theo, người dùng ấn chọn dữ liệu phù hợp và ấn nút kế tiếp để tiếp tục quá trình tạo Jobs
-
-**Bước 3:** Cấu hình dự án
-
-**+ OCR ENTRY**
-![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/f66624d2-1c1b-4c6c-8ace-471b08bd5159)
-**+ DOUBLE ENTRY**
-![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/e5467feb-84ce-4b11-b64c-62768757144e)
-Vai trò Manager có khả năng kéo thả và xóa các vai trò khác trong mô hình dự án, vẫn đảm bảo tuân thủ yêu cầu của dự án.
-![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/3d28bebd-e4a2-4b15-8826-20e70cd1db4b)
-Khi nối các vai trò (roles) với nhau, bạn kéo từ vị trí có chấm đỏ tới vị trí có chấm vàng của vai trò khác. Tuy nhiên, nếu cả hai vai trò đều có chấm đỏ, thì không thể nối chúng với nhau.
-
-Hiện tại hệ thống được xử lý theo 2 cấu hình sau:
-
-**1: OCR ENTRY**
-
-**2: DOUBLE ENTRY**
-
-Sau khi hoàn tất cấu hình dự án, nhấn kế tiếp để hoàn tất quá trình tạo công việc
-
-**Bước 4:** Nhập các thông tin liên quan
-![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/b6ec43b8-d10c-4ab3-85c4-44452e236e1a)
-Tại bước thiết lập cuối cùng này, bạn hãy nhập Tên công việc, Mô tả công việc và lựa chọn Tên dữ liệu .Nhấn **Tạo công việc** để hoàn tất.
+Hệ thống thường có khả năng ghi lại và theo dõi hoạt động của người dùng. Điều này giúp quản trị viên xem xét các hoạt động, bảo mật và sự tuân thủ.

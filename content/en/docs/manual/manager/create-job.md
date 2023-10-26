@@ -33,9 +33,12 @@ Tiếp theo, người dùng ấn chọn dữ liệu phù hợp và ấn nút k�
 ![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/e5467feb-84ce-4b11-b64c-62768757144e)
 Vai trò Manager có khả năng kéo thả và xóa các vai trò khác trong mô hình dự án, vẫn đảm bảo tuân thủ yêu cầu của dự án.
 ![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/3d28bebd-e4a2-4b15-8826-20e70cd1db4b)
-Khi nối các vai trò (roles) với nhau, bạn kéo từ vị trí có chấm đỏ tới vị trí có chấm vàng của vai trò khác. Tuy nhiên, nếu cả hai vai trò đều có chấm đỏ, thì không thể nối chúng với nhau. Hiện tại hệ thống được xử lý theo 2 cấu hình sau:
+Khi nối các vai trò (roles) với nhau, bạn kéo từ vị trí có chấm đỏ tới vị trí có chấm vàng của vai trò khác. Tuy nhiên, nếu cả hai vai trò đều có chấm đỏ, thì không thể nối chúng với nhau. 
+
+Hiện tại hệ thống được xử lý theo 2 cấu hình sau:
 **1: OCR ENTRY**
 **2: DOUBLE ENTRY**
+
 Sau khi hoàn tất cấu hình dự án, nhấn kế tiếp để hoàn tất quá trình tạo công việc
 
 **Bước 4:** Nhập các thông tin liên quan

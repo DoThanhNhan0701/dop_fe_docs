@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "CVAT"
+title = "OPENCROWD"
 relativeURLs = true
 
 enableRobotsTXT = true
@@ -48,7 +48,7 @@ anchor = "smart"
 [[menu.main]]
     name = "Try it now"
     weight = 50
-    url = "https://app.cvat.ai"
+    url = "https://crowd.rainscales.com/"
 [[menu.main]]
     name = "GitHub"
     weight = 60
@@ -64,7 +64,7 @@ anchor = "smart"
 
 [languages]
 [languages.en]
-title = "CVAT"
+title = "OPENCROWD"
 description = ""
 languageName ="English"
 # Weight used for sorting.
@@ -117,7 +117,7 @@ github_repo = "https://github.com/DoThanhNhan0701/dop_fe_docs"
 github_project_repo = "https://github.com/DoThanhNhan0701/dop_fe_docs"
 
 # Specify a value here if your content directory is not in your repo's root directory
-github_subdir = "site"
+github_subdir = ""
 
 # Uncomment this if you have a newer GitHub repo with "main" as the default branch,
 # or specify a new value if you want to reference another branch in your GitHub links
@@ -185,7 +185,7 @@ enable = false
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
 	name = "GitHub"
-	url = "https://github.com/cvat-ai/cvat"
+	url = "https://github.com/DoThanhNhan0701/dop_fe_docs"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
 [[params.links.developer]]

@@ -34,3 +34,8 @@ Chức năng này cho phép quản trị viên quản lý quyền truy cập c�
 **Theo dõi hoạt động của người dùng:**
 
 Hệ thống thường có khả năng ghi lại và theo dõi hoạt động của người dùng. Điều này giúp quản trị viên xem xét các hoạt động, bảo mật và sự tuân thủ.
+
+
+![](/img/image1.png)
+
+![](/img/image2.png)

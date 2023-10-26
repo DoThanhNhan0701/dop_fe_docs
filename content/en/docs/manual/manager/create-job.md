@@ -18,8 +18,11 @@ Trang Tạo dự án trong tài liệu giới thiệu quá trình tạo và qu�
 ![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/a7255895-4916-46a4-93e0-270a5d5c6b55)
 
 Tùy theo cấu hình của Project mà manager update data phù hợp với template của Project
+
 + Loại dự án **Simple batch** thì upload **FILE ẢNH**
+  
 + Loại dự án **Multiple batch** thì upload **FILE ZIP**
+  
 Sau khi tải dữ liệu thành công, hệ thống sẽ chuyển sang tab chọn dữ liệu
 
 ![image](https://github.com/DoThanhNhan0701/dop_fe_docs/assets/93235049/c2532589-12e6-4d72-8013-01f6a8b1ab13)
@@ -36,6 +39,7 @@ Vai trò Manager có khả năng kéo thả và xóa các vai trò khác trong m
 Khi nối các vai trò (roles) với nhau, bạn kéo từ vị trí có chấm đỏ tới vị trí có chấm vàng của vai trò khác. Tuy nhiên, nếu cả hai vai trò đều có chấm đỏ, thì không thể nối chúng với nhau. 
 
 Hiện tại hệ thống được xử lý theo 2 cấu hình sau:
+
 **1: OCR ENTRY**
 
 **2: DOUBLE ENTRY**
